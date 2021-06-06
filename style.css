@@ -1,0 +1,22 @@
+#luna{
+width: 600px;
+height:300px;
+text-align: center;
+}
+h2{
+	text-align: center;
+	font-family: arial;
+}
+p{
+	font-family: calibri;
+}
+article{
+	color: white;
+}
+tr{
+	text-align: center;
+	color: blue;
+}
+td{
+	text-align: center;
+}
